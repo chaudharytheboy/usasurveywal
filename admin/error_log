@@ -1,0 +1,26 @@
+[02-May-2019 08:06:01 UTC] PHP Warning:  move_uploaded_file(../images/popular_image/most-populer2.png): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:06:01 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpwf0ctm' to '../images/popular_image/most-populer2.png' in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:06:46 UTC] PHP Warning:  move_uploaded_file(../images/popular_image/most-populer3.png): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:06:46 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpzkNqS1' to '../images/popular_image/most-populer3.png' in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:08:06 UTC] PHP Warning:  move_uploaded_file(../images/popular_image/most-populer.png): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[02-May-2019 08:08:06 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7xFiuP' to '../images/popular_image/most-populer.png' in /home/hostingadmin/usasurveyz.com/admin/update_products.php on line 38
+[10-May-2019 07:12:01 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 35
+[10-May-2019 07:12:01 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 46
+[10-May-2019 07:12:10 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 35
+[10-May-2019 07:12:10 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 46
+[10-May-2019 07:14:40 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 35
+[10-May-2019 07:14:40 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 46
+[10-May-2019 07:14:44 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 35
+[10-May-2019 07:14:44 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 46
+[10-May-2019 07:14:47 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 35
+[10-May-2019 07:14:47 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 46
+[10-May-2019 07:18:09 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 35
+[10-May-2019 07:18:09 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 46
+[10-May-2019 07:18:10 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 35
+[10-May-2019 07:18:10 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 46
+[10-May-2019 07:18:14 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 35
+[10-May-2019 07:18:14 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 46
+[10-May-2019 07:18:15 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 35
+[10-May-2019 07:18:15 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 46
+[10-May-2019 13:18:39 UTC] PHP Notice:  Undefined index: proImagePopularfrom in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 35
+[10-May-2019 13:18:39 UTC] PHP Notice:  Undefined index: proImagePopularTo in /home/hostingadmin/usasurveyz.com/wal/admin/update_url.php on line 46

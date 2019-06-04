@@ -1,0 +1,24 @@
+[03-May-2019 12:34:39 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[03-May-2019 12:34:39 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[03-May-2019 12:35:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostingadmin/usasurveyz.com/wal/database.php on line 6
+[03-May-2019 12:35:47 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hostingadmin/usasurveyz.com/wal/database.php on line 8
+[03-May-2019 12:42:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hostingadmin/usasurveyz.com/wal/database.php on line 6
+[03-May-2019 12:42:08 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hostingadmin/usasurveyz.com/wal/database.php on line 8
+[10-May-2019 07:17:01 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[10-May-2019 07:17:01 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[10-May-2019 07:17:09 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[10-May-2019 07:17:09 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[10-May-2019 07:17:14 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[10-May-2019 07:17:14 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[10-May-2019 07:17:38 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[10-May-2019 07:17:38 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[10-May-2019 07:17:56 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[10-May-2019 07:17:56 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[13-May-2019 10:22:09 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[13-May-2019 10:22:09 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[14-May-2019 06:40:39 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[14-May-2019 06:40:39 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[14-May-2019 06:42:48 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[14-May-2019 06:42:48 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[14-May-2019 06:43:18 UTC] PHP Warning:  include(404.php): failed to open stream: No such file or directory in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
+[14-May-2019 06:43:18 UTC] PHP Warning:  include(): Failed opening '404.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/hostingadmin/usasurveyz.com/wal/index.php on line 6
